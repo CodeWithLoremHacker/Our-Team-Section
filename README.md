@@ -1,4 +1,4 @@
-It is the Our Team Section With Responsive for the all the devices.
+It is the Our Team Section With Responsive for the all the devices with hover effect.
 
 
 For The Big Screen
