@@ -1,3 +1,6 @@
+It is the Our Team Section With Responsive for the all the devices.
+
+
 For The Big Screen
 ![Screenshot 2024-04-16 090928](https://github.com/CodeWithLoremHacker/Our-Team-Section/assets/166585813/23a2b9cc-35b5-44d5-b910-d44c0b7e71e1)
 
